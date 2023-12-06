@@ -1,6 +1,6 @@
-name = "cf-workers-status-page"
+name = "pixelnet-status"
 workers_dev = true
-account_id = ""
+account_id = "aqUF6FMn2X7UCHaeM-sOu9i8gSBTHoB5cFyFVOuN"
 type = "webpack"
 webpack_config = "node_modules/flareact/webpack"
 compatibility_date = "2021-07-23"
